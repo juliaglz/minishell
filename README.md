@@ -1,0 +1,1 @@
+This project is an **implementation of a mini shell using C**. It aims to replicate basic shell functionalities such as command parsing, execution, environment variable handling, redirections, and piping.
